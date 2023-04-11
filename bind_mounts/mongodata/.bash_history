@@ -1,0 +1,4 @@
+mongosh
+exit
+mongosh
+exit
